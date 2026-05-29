@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891b2,50:326CE5,100:6D28D9&amp;height=200&amp;section=header&amp;text=Sharath%20Veerapaneni&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20Infrastructure%20Architect&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=false&width=700&lines=kubectl+get+pods+--all-namespaces+%E2%9C%85;terraform+apply+-auto-approve+%F0%9F%9A%80;helm+upgrade+--install+my-app+.%2F+%F0%9F%8E%AF;ansible-playbook+deploy.yml+--check+%F0%9F%94%A7;docker+build+-t+sharath%2Fawesome-app+.+%F0%9F%90%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=326CE5&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;lines=kubectl+get+pods+--all-namespaces+%E2%9C%85;terraform+apply+-auto-approve+%F0%9F%9A%80;helm+upgrade+--install+my-app+.%2F+%F0%9F%8E%AF;ansible-playbook+deploy.yml+--check+%F0%9F%94%A7;docker+build+-t+sharath%2Fawesome-app+.+%F0%9F%90%B3)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
-[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Sharath77)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invisiblelad)
-![Profile Views](https://komarev.com/ghpvc/?username=Invisiblelad&style=for-the-badge&color=326CE5&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white)](https://hashnode.com/@Sharath77)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Invisiblelad)
+![Profile Views](https://komarev.com/ghpvc/?username=Invisiblelad&amp;style=for-the-badge&amp;color=326CE5&amp;label=PROFILE+VIEWS)
 
 </div>
 
@@ -48,45 +48,45 @@ spec:
 
 <div align="center">
 
-### ☸️ Container Orchestration & Runtime
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
-[![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)](https://istio.io)
-[![containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)](https://containerd.io)
+### ☸️ Container Orchestration &amp; Runtime
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)](https://docker.com)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&amp;logo=helm&amp;logoColor=white)](https://helm.sh)
+[![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&amp;logo=istio&amp;logoColor=white)](https://istio.io)
+[![containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&amp;logo=containerd&amp;logoColor=white)](https://containerd.io)
 
 ### ☁️ Cloud Platforms
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white)](https://cloud.google.com)
 
 ### 🏗️ Infrastructure as Code
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
-[![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)](https://pulumi.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white)](https://terraform.io)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white)](https://ansible.com)
+[![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&amp;logo=pulumi&amp;logoColor=white)](https://pulumi.com)
 
-### 🔄 CI/CD & GitOps
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)](https://spinnaker.io)
+### 🔄 CI/CD &amp; GitOps
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white)](https://jenkins.io)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&amp;logo=argo&amp;logoColor=white)](https://argoproj.github.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white)](https://github.com/features/actions)
+[![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&amp;logo=spinnaker&amp;logoColor=white)](https://spinnaker.io)
 
 ### 📊 Observability Stack
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
-[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://datadog.com)
-[![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/docs/alerting/alertmanager/)
-[![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white)](https://grafana.com)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white)](https://datadog.com)
+[![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white)](https://prometheus.io/docs/alerting/alertmanager/)
+[![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white)](https://grafana.com/oss/loki/)
 
-### 💻 Languages & Scripting
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)
+### 💻 Languages &amp; Scripting
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)](https://python.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white)](https://go.dev)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white)](https://gnu.org/software/bash)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&amp;logo=yaml&amp;logoColor=white)](https://yaml.org)
 
-### 🗄️ Databases & Messaging
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
+### 🗄️ Databases &amp; Messaging
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)](https://redis.io)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white)](https://kafka.apache.org)
 
 </div>
 
@@ -154,13 +154,13 @@ spec:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Invisiblelad&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Invisiblelad&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Invisiblelad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Invisiblelad&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -195,9 +195,9 @@ $ cat current_focus.md
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
-[![Blog](https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Sharath77)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invisiblelad)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
+[![Blog](https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white)](https://hashnode.com/@Sharath77)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Invisiblelad)
 
 **Open to:** DevOps collaborations · K8s troubleshooting discussions · Open-source contributions · Technical writing
 

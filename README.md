@@ -1,138 +1,205 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗       ║
-║   ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝       ║
-║   ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗       ║
-║   ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║       ║
-║   ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║       ║
-║   ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:326CE5,100:6D28D9&height=200&section=header&text=Sharath%20Veerapaneni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20Infrastructure%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# Sharath Veerapaneni
-### ☁️ Cloud & DevOps Engineer · Infrastructure Architect · Automation Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=false&width=700&lines=kubectl+get+pods+--all-namespaces+%E2%9C%85;terraform+apply+-auto-approve+%F0%9F%9A%80;helm+upgrade+--install+my-app+.%2F+%F0%9F%8E%AF;ansible-playbook+deploy.yml+--check+%F0%9F%94%A7;docker+build+-t+sharath%2Fawesome-app+.+%F0%9F%90%B3)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Sharath77)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Sharath77)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invisiblelad)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Invisiblelad&style=for-the-badge&color=0891b2)
+![Profile Views](https://komarev.com/ghpvc/?username=Invisiblelad&style=for-the-badge&color=326CE5&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## `$ whoami`
 
-> *"Infrastructure is poetry written in YAML and Terraform."*
-
-I'm a **Cloud & DevOps Engineer** who believes that well-architected infrastructure is invisible — it just works. I bridge the gap between development velocity and operational reliability, turning complex distributed systems into elegant, self-healing pipelines.
-
-- 🏗️ **I build** cloud-native infrastructure that scales from zero to global
-- 🤖 **I automate** everything that can be automated — and then some
-- 📝 **I write** about DevOps and cloud on [Hashnode](https://hashnode.com/@Sharath77)
-- 🌍 Based in **India**, building for the world
+```yaml
+apiVersion: v1
+kind: Engineer
+metadata:
+  name: sharath-veerapaneni
+  namespace: cloud-devops
+  labels:
+    role: platform-engineer
+    focus: kubernetes, infrastructure, automation
+spec:
+  title: Cloud & DevOps Engineer
+  location: India 🇮🇳
+  mission: >
+    Build resilient, self-healing infrastructure at scale.
+    Automate everything. Ship faster. Break nothing.
+  currentlyExploring:
+    - Cloud-native architectures & FinOps
+    - Platform Engineering & Internal Developer Platforms
+    - GitOps with ArgoCD & Flux
+    - OpenTelemetry & eBPF-based observability
+  openTo:
+    - DevOps collaborations
+    - Open-source contributions
+    - Cloud architecture discussions
+    - Technical writing & knowledge sharing
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚙️ Tech Stack & Toolchain
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+### ☸️ Container Orchestration & Runtime
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
+[![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)](https://istio.io)
+[![containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)](https://containerd.io)
+
+### ☁️ Cloud Platforms
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+
+### 🏗️ Infrastructure as Code
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
+[![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)](https://pulumi.com)
 
 ### 🔄 CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)](https://spinnaker.io)
 
-### 📊 Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+### 📊 Observability Stack
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://datadog.com)
+[![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/docs/alerting/alertmanager/)
+[![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)
 
 ### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)
+
+### 🗄️ Databases & Messaging
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
 
 </div>
+
+---
+
+## 🏛️ Architecture Mindset
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    MY DEVOPS PHILOSOPHY                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Developer Push                                            │
+│        │                                                    │
+│        ▼                                                    │
+│   ┌─────────┐    ┌──────────┐    ┌──────────┐              │
+│   │  GitHub  │───▶│ CI/CD    │───▶│ Registry │              │
+│   │  (Code)  │    │ Pipeline │    │ (Images) │              │
+│   └─────────┘    └──────────┘    └──────────┘              │
+│                        │                                    │
+│                        ▼                                    │
+│              ┌──────────────────┐                           │
+│              │   ArgoCD/GitOps  │                           │
+│              │  (Desired State) │                           │
+│              └──────────────────┘                           │
+│                        │                                    │
+│          ┌─────────────┼─────────────┐                      │
+│          ▼             ▼             ▼                      │
+│    ┌──────────┐  ┌──────────┐  ┌──────────┐                │
+│    │  Dev K8s │  │ Stage K8s│  │ Prod K8s │                │
+│    │ Cluster  │  │ Cluster  │  │ Cluster  │                │
+│    └──────────┘  └──────────┘  └──────────┘                │
+│                                      │                      │
+│                                      ▼                      │
+│                          ┌────────────────────┐             │
+│                          │  Prometheus+Grafana │             │
+│                          │   (Observability)  │             │
+│                          └────────────────────┘             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔧 gitea-ansible-kubernetes](https://github.com/Invisiblelad/gitea-ansible-kubernetes) | Deploy Gitea on Kubernetes using Ansible automation | Ansible · K8s · HTML |
-| [⚓ helm](https://github.com/Invisiblelad/helm) | Helm chart for deploying a production-grade Nginx setup | Helm · Docker · K8s |
-| [🏗️ terraform-kubernetes](https://github.com/Invisiblelad/terraform-kubernetes) | Infrastructure as Code — deploy apps on Kubernetes with Terraform | Terraform · HCL · K8s |
-| [🐳 docker-jenkins](https://github.com/Invisiblelad/docker-jenkins) | Containerized Jenkins CI setup | Docker · Jenkins |
-| [🌐 webserver](https://github.com/Invisiblelad/webserver) | Lightweight web server deployment | HTML |
-| [🦊 gitea](https://github.com/Invisiblelad/gitea) | Self-hosted Git service configuration | Smarty |
+| 🔧 Project | 📝 Description | 🛠️ Stack | ⭐ |
+|-----------|---------------|---------|---|
+| [gitea-ansible-kubernetes](https://github.com/Invisiblelad/gitea-ansible-kubernetes) | Full self-hosted Git service deployed via Ansible onto K8s — IaC meets GitOps | Ansible · K8s · Helm | [![Stars](https://img.shields.io/github/stars/Invisiblelad/gitea-ansible-kubernetes?style=flat-square&color=326CE5)](https://github.com/Invisiblelad/gitea-ansible-kubernetes) |
+| [terraform-kubernetes](https://github.com/Invisiblelad/terraform-kubernetes) | Provision and deploy full apps on Kubernetes with Terraform — zero manual steps | Terraform · HCL · K8s | [![Stars](https://img.shields.io/github/stars/Invisiblelad/terraform-kubernetes?style=flat-square&color=7B42BC)](https://github.com/Invisiblelad/terraform-kubernetes) |
+| [helm](https://github.com/Invisiblelad/helm) | Production-grade Helm chart for Nginx — parameterized, reusable, scalable | Helm · Docker · K8s | [![Stars](https://img.shields.io/github/stars/Invisiblelad/helm?style=flat-square&color=0F1689)](https://github.com/Invisiblelad/helm) |
+| [docker-jenkins](https://github.com/Invisiblelad/docker-jenkins) | Containerized Jenkins CI — portable, reproducible, pipeline-ready | Docker · Jenkins | [![Stars](https://img.shields.io/github/stars/Invisiblelad/docker-jenkins?style=flat-square&color=D24939)](https://github.com/Invisiblelad/docker-jenkins) |
+| [gitea](https://github.com/Invisiblelad/gitea) | Self-hosted Git service configuration and deployment manifests | Smarty · YAML | [![Stars](https://img.shields.io/github/stars/Invisiblelad/gitea?style=flat-square&color=609926)](https://github.com/Invisiblelad/gitea) |
+| [webserver](https://github.com/Invisiblelad/webserver) | Lightweight web server with containerized deployment setup | HTML · Docker | [![Stars](https://img.shields.io/github/stars/Invisiblelad/webserver?style=flat-square&color=F46800)](https://github.com/Invisiblelad/webserver) |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Invisiblelad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invisiblelad&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Invisiblelad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invisiblelad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Invisiblelad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Invisiblelad&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Invisiblelad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently in My `~/learning` Directory
 
-```yaml
-current_focus:
-  - Advanced cloud-native architectures
-  - Optimizing containerized workload performance
-  - Scalable Infrastructure as Code patterns
-  - FinOps — cloud cost optimization strategies
-  - Platform Engineering & Internal Developer Platforms
+```bash
+$ ls -la ~/learning/
+drwxr-xr-x  FinOps-and-cloud-cost-optimization/
+drwxr-xr-x  platform-engineering-idp/
+drwxr-xr-x  opentelemetry-observability/
+drwxr-xr-x  ebpf-kernel-tracing/
+drwxr-xr-x  wasm-on-kubernetes/
+drwxr-xr-x  cka-ckad-prep/
+
+$ cat current_focus.md
+> Mastering cloud-native patterns and building IDPs
+> that give developers superpowers without the ops burden.
 ```
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Blog — `hashnode.com/@Sharath77`
 
-<!-- HASHNODE:START -->
-> 📌 Check out my latest writings at **[hashnode.com/@Sharath77](https://hashnode.com/@Sharath77)**
-<!-- HASHNODE:END -->
+> 📌 I write about real-world DevOps problems, K8s deep-dives, and infrastructure patterns.  
+> 👉 Read at **[hashnode.com/@Sharath77](https://hashnode.com/@Sharath77)**
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Connect
 
 <div align="center">
 
-I'm always open to conversations about **DevOps**, **Cloud Architecture**, **Open Source**, and **Infrastructure Automation**.
-
-Whether you want to collaborate on a project, discuss ideas, or just say hi — my DMs are open!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
 [![Blog](https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Sharath77)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invisiblelad)
+
+**Open to:** DevOps collaborations · K8s troubleshooting discussions · Open-source contributions · Technical writing
 
 </div>
 
@@ -140,8 +207,8 @@ Whether you want to collaborate on a project, discuss ideas, or just say hi — 
 
 <div align="center">
 
-*"Automate the boring stuff. Ship the interesting stuff."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:326CE5,100:0891b2&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-⭐ **If you find my work useful, consider giving repos a star!** ⭐
+*`kubectl apply -f great-work.yaml && echo "shipped ✅"`*
 
 </div>

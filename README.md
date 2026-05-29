@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:326CE5,100:6D28D9&height=200&section=header&text=Sharath%20Veerapaneni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20Infrastructure%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891b2,50:326CE5,100:6D28D9&amp;height=200&amp;section=header&amp;text=Sharath%20Veerapaneni&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20Infrastructure%20Architect&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=false&width=700&lines=kubectl+get+pods+--all-namespaces+%E2%9C%85;terraform+apply+-auto-approve+%F0%9F%9A%80;helm+upgrade+--install+my-app+.%2F+%F0%9F%8E%AF;ansible-playbook+deploy.yml+--check+%F0%9F%94%A7;docker+build+-t+sharath%2Fawesome-app+.+%F0%9F%90%B3)](https://git.io/typing-svg)
 
@@ -147,8 +147,8 @@ spec:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Invisiblelad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invisiblelad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Invisiblelad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invisiblelad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="175"/>
 
 </div>
 
@@ -207,7 +207,7 @@ $ cat current_focus.md
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:326CE5,100:0891b2&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:326CE5,100:0891b2&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 
 *`kubectl apply -f great-work.yaml && echo "shipped ✅"`*
 

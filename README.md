@@ -1,8 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:326CE5,100:6D28D9&height=200&section=header&text=Sharath%20Veerapaneni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20Infrastructure%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ░██████╗██╗  ██╗░█████╗░██████╗░░█████╗░████████╗██╗  ██╗    ║
+║    ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ║
+║    ╚█████╗ ███████║███████║██████╔╝███████║   ██║   ███████║    ║
+║    ░╚═══██╗██╔══██║██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║    ║
+║    ██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ║
+║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ║
+║                                                                   ║
+║           [ Cloud & DevOps Engineer | K8s Whisperer ]            ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&width=700&lines=kubectl+get+pods+--all-namespaces+%E2%9C%85;terraform+apply+-auto-approve+%F0%9F%9A%80;helm+upgrade+--install+my-app+.%2F+%F0%9F%8E%AF;ansible-playbook+deploy.yml+--check+%F0%9F%94%A7;docker+build+-t+sharath%2Fawesome-app+.+%F0%9F%90%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=326CE5&center=true&vCenter=true&width=700&lines=kubectl+get+pods+--all-namespaces+%E2%9C%85;terraform+apply+-auto-approve+%F0%9F%9A%80;helm+upgrade+--install+my-app+.%2F+%F0%9F%8E%AF;ansible-playbook+deploy.yml+%F0%9F%94%A7;docker+build+-t+sharath%2Fawesome-app+.+%F0%9F%90%B3)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-veerapaneni-71930b16b/)
 [![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Sharath77)
@@ -194,14 +207,14 @@ $ cat current_focus.md
 
 **Open to:** DevOps collaborations · K8s troubleshooting · Open-source contributions · Technical writing
 
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:326CE5,100:0891b2&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
-
-`kubectl apply -f great-work.yaml && echo "shipped"`
+```
+╔═══════════════════════════════════════════════════╗
+║   kubectl apply -f great-work.yaml                ║
+║   > deployment.apps/sharath configured  ✅        ║
+║   > All systems nominal. Pods running.  🚀        ║
+╚═══════════════════════════════════════════════════╝
+```
 
 </div>
